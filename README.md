@@ -30,7 +30,7 @@ pip uninstall h2o
 pip install http://h2o-release.s3.amazonaws.com/h2o/master/4010/Python/h2o-3.15.0.4010-py2.py3-none-any.whl
 ```
 
-### Install h2o TwitterSearch
+### Install TwitterSearch
 
 ```
 pip install TwitterSearch
