@@ -49,7 +49,7 @@ source [here](http://socialmedia-class.org/twittertutorial.html)
 ## Run
 
 ```
-git clone`
+git clone https://github.com/h2oai/social_ml.git
 ```
 
 
