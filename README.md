@@ -1,6 +1,6 @@
 # Social ML
 
-Wouldn't be great to use machine learning and artificial intelligence to help our neighbours, our friends who might be in danger? Who knows someone might be able to help. The web may be chaotic, yet contains significant information for those around us that might need our help. Machine learning can help us structure this data and hopefully make it more useful.
+Wouldn't be great to use machine learning and artificial intelligence to help our neighbours, our friends who might be in danger? Who knows **someone might be able to help**. The web may be chaotic, yet contains significant information for those around us that might need our help. **Machine learning** can help us structure this data and hopefully make it more useful.
 
 ## Hurricane Harvey
 
