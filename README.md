@@ -79,7 +79,7 @@ run houston_hurricane.py
 python houston_hurricane.py
 ```
 
-the produced tweets_for_hurricane_houston.csv - .py will save have 3 comman separated fields [url, date, tweet]
+the produced **tweets_for_hurricane_houston.csv** will save have 3 comman separated fields [url, date, tweet]
 
 
 Then run model_sentiment.py
