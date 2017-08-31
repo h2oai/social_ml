@@ -90,7 +90,7 @@ python model_sentiment.py
 ```
 This will build a classifier based on the sentiment data (**sentiment_m140_.csv**) and classify the tweets (low score= severe comment, high score= positive comment). 
 the ranked results will be placed in **ranked_tweets.csv** . 
-The *ranked_houston_tweets.xls* was created manually from ranked_tweets.csv to make the output more clear
+The **ranked_houston_tweets.xls** was created manually from **ranked_tweets.csv** to make the output more clear
 
 ### Sample tweets
 
