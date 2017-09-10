@@ -36,10 +36,10 @@ try:
     
         # it's about time to create a TwitterSearch object with our secret tokens
         ts = TwitterSearch(
-            consumer_key = 'QowXZfKzmq6Jj8Kkgdy78YCvI',
-            consumer_secret = 'f2d9OJ9eDdIY8tkPSrBntJxcxHrE1JxloYQAhCBDgs9531D1TK',
-            access_token = '903171270094749697-iln5cQj6bCqIYAoXdmMeBvgkDvoyX3n',
-            access_token_secret = 'EBmuKJ6PzNdRjpFiI57tnb6jtJDLj1t2Mk8XBRELzWuAu'
+            consumer_key = 'your consumer_key',
+            consumer_secret = 'your consumer_secret',
+            access_token = 'your access_token',
+            access_token_secret = 'your access_token_secret'
          )
          # this is where the fun actually starts :)
         count=0
